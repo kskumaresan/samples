@@ -48,7 +48,7 @@ source:
         username: ubuntu
       - id: ami-0d03add87774b12c5
         region: us-east-2
-        username: ubuntu
+        username: ubuntu      
     azure_image:
       - urn: Canonical:UbuntuServer:16.04-LTS:latest
         username: adminuser
